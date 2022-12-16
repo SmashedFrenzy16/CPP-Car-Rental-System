@@ -6,3 +6,4 @@ To run the program type this into your terminal:
 ```
 ./carrental
 ```
+Or alternatively you can build the C++ project with `g++`, `clang++`, or with any other C++ project builder.
