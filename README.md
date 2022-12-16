@@ -3,6 +3,9 @@ This is a Car Rental Program that I made in C++, complete with usernames and pas
 
 ## How To Run
 
+First navigate to the directory that contains the project:
+
+
 Then, to run the program, type this into your terminal:
 
 ```
